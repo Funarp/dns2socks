@@ -1,0 +1,2 @@
+gcc -pthread -Wall -O2 -o dns2socks dns2socks.c
+
